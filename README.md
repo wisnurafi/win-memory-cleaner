@@ -100,8 +100,3 @@ Translations live in `src/Resources/Localization/*.json` and are embedded as res
 ## License
 
 Distributed under the GPL-3.0 license.
-
-## Credits
-
-Original project and idea by Igor Mundstein:
-https://github.com/IgorMundstein/WinMemoryCleaner
