@@ -96,7 +96,3 @@ Translations live in `src/Resources/Localization/*.json` and are embedded as res
   - `EmptyWorkingSet` for per-process trimming
   - Privilege adjustments: `SeDebugPrivilege`, `SeIncreaseQuotaPrivilege`, `SeProfileSingleProcessPrivilege`
 - Hotkey registration through `RegisterHotKey` / `WM_HOTKEY`.
-
-## License
-
-Distributed under the GPL-3.0 license.
