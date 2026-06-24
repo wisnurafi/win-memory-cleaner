@@ -23,7 +23,7 @@ namespace WinMemoryCleaner
 
             public static class Author
             {
-                public const string Name = "Igor Mundstein";
+                public const string Name = "Wisnu Rafi";
             }
 
             public static class Log
@@ -64,9 +64,9 @@ namespace WinMemoryCleaner
 
             public static class Repository
             {
-                public static readonly Uri AssemblyInfoUri = new Uri("https://raw.githubusercontent.com/IgorMundstein/WinMemoryCleaner/master/src/Properties/AssemblyInfo.cs");
-                public static readonly Uri LatestExeUri = new Uri("https://github.com/IgorMundstein/WinMemoryCleaner/releases/latest/download/WinMemoryCleaner.exe");
-                public static readonly Uri Uri = new Uri("https://github.com/IgorMundstein/WinMemoryCleaner/");
+                public static readonly Uri AssemblyInfoUri = new Uri("https://github.com/wisnurafi/win-memory-cleaner/blob/main/Properties/AssemblyInfo.cs");
+                public static readonly Uri LatestExeUri = new Uri("https://github.com/wisnurafi/win-memory-cleaner/releases/tag/v1.0.0");
+                public static readonly Uri Uri = new Uri("https://github.com/wisnurafi/win-memory-cleaner");
             }
         }
 
