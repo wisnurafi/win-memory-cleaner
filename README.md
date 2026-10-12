@@ -78,6 +78,15 @@ Run `WinMemoryCleaner.exe` as administrator. The app will request elevation auto
 
 Settings are persisted to the Windows Registry under `HKEY_CURRENT_USER\SOFTWARE\WinMemoryCleaner`.
 
+## Privacy
+
+Fully offline — no telemetry, no analytics, no network calls. Settings live in the registry (`HKEY_CURRENT_USER\SOFTWARE\WinMemoryCleaner`); nothing leaves your machine.
+
+## Project docs
+
+- `CONTRIBUTING.md` — building, translations, code guidelines
+- `SECURITY.md` — how to report vulnerabilities
+
 ## Localization
 
 Translations live in `src/Resources/Localization/*.json` and are embedded as resources. To add a new language:
